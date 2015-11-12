@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TreeMap Test</string>
+    <string name="msg">Simple NDK Test</string>
+    <string name="action_exit">Exit</string>
+</resources>
